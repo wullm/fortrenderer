@@ -1,4 +1,4 @@
-! Willem is een vette baas
+! A Fortran interface for my CLASS renderer.
 
 PROGRAM GET_3D_CUBE
 USE ISO_C_BINDING
